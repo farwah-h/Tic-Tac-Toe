@@ -38,7 +38,5 @@ The Tic Tac Toe game is structured as follows:
 
 - Make sure to run the program using a Python interpreter.
 
-## Contact
-For further queries contact farwah.hamid21@gmail.com
 
 
